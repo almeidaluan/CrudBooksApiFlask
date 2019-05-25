@@ -19,3 +19,5 @@
     - flask - Framework web
     - flask-sqlalchemy - ORM
     - flask-migrate - Criação das migrations
+    - flask-marshmallow - Serializer 
+    - marshmallow-sqlalchemy - Serializer
